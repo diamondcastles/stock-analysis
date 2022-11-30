@@ -5,10 +5,15 @@ Using a dataset compiling stock volumes, starting prices, ending prices and tick
 
 ## Results
 ![AltText](./Green_Stocks2017.PNG)
+
 ![AltText](./Green_Stocks2018.PNG)
+
 These two images above display the duration in which the analysis was run with the original workbook pre-refactoring.
+
 ![AltText](./Resources/VBA_Challenge_2017.png)
+
 ![AltText](./Resources/VBA_Challenge_2018.PNG)
+
 These images detail the duration after code refactoring was performed, showing an improvement in run time and speed.
 ### The code breakdown - Arrrays
 Old code will be featured first, refactored code after.
